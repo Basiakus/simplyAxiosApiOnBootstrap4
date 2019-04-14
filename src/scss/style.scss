@@ -1,8 +1,13 @@
 html {
     body {
-        background-color: rgb(42, 161, 144);
+        background-color: rgb(198, 227, 240);
         p {
             color: rgb(206, 163, 163);
+        }
+        li.list-group-item {
+            b {
+                color: red;
+            }
         }
     }
 }
